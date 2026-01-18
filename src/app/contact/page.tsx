@@ -30,7 +30,7 @@ export default function ContactPage() {
                 <div>
                   <h3 className="font-semibold">Email</h3>
                   <a href="mailto:contact@smartintenv.com" className="text-muted-foreground hover:text-primary transition-colors">
-                    contact@smartintenv.com
+                    mailto:sitechx.dj@gmail.com
                   </a>
                 </div>
               </div>
@@ -41,7 +41,7 @@ export default function ContactPage() {
                 <div>
                   <h3 className="font-semibold">Phone</h3>
                   <a href="tel:+1234567890" className="text-muted-foreground hover:text-primary transition-colors">
-                    (123) 456-7890
+                    +25377871225
                   </a>
                 </div>
               </div>
